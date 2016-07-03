@@ -1,0 +1,24 @@
+{
+  "name": "bower_grunt",
+  "authors": [
+    "Fabian Jesus <fabianncdev@gmail.com>"
+  ],
+  "description": "learning bower with grunt",
+  "main": "",
+  "keywords": [
+    "bower",
+    "grunt",
+    "nodejs",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "build/bower_components"
+    "test",
+    "tests"
+  ]
+}
